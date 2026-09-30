@@ -12,13 +12,13 @@ Me interesa especialmente el desarrollo de aplicaciones que combinen **una buena
 
 ## 🚀 Sobre mí
 
-* 💻 Desarrollador de Aplicaciones Web
-* 🌐 Apasionado por el desarrollo **Frontend y Backend**
-* 🧩 Interesado en la creación de aplicaciones web modernas y escalables
-* 📚 En constante aprendizaje y actualización tecnológica
-* 🔧 Comprometido con escribir código limpio, organizado y mantenible
-* 🤝 Abierto a colaborar en proyectos interesantes
-* 🚀 Siempre buscando nuevos retos para seguir creciendo profesionalmente
+- 💻 Desarrollador de Aplicaciones Web
+- 🌐 Apasionado por el desarrollo **Frontend y Backend**
+- 🧩 Interesado en la creación de aplicaciones web modernas y escalables
+- 📚 En constante aprendizaje y actualización tecnológica
+- 🔧 Comprometido con escribir código limpio, organizado y mantenible
+- 🤝 Abierto a colaborar en proyectos interesantes
+- 🚀 Siempre buscando nuevos retos para seguir creciendo profesionalmente
 
 ---
 
@@ -26,19 +26,19 @@ Me interesa especialmente el desarrollo de aplicaciones que combinen **una buena
 
 ### 🌐 Desarrollo Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 > 🚧 Actualmente ampliando mi stack tecnológico y trabajando en nuevos proyectos.
 
@@ -50,11 +50,11 @@ En este perfil encontrarás diferentes proyectos relacionados con el desarrollo 
 
 ### 🔭 Actualmente trabajando en...
 
-* 🌱 Mejorando mis conocimientos en desarrollo web
-* 🧪 Experimentando con nuevas tecnologías
-* 🚀 Creando proyectos personales
-* 📖 Aprendiendo y aplicando buenas prácticas de desarrollo
-* 💡 Transformando ideas en soluciones digitales
+- 🌱 Mejorando mis conocimientos en desarrollo web
+- 🧪 Experimentando con nuevas tecnologías
+- 🚀 Creando proyectos personales
+- 📖 Aprendiendo y aplicando buenas prácticas de desarrollo
+- 💡 Transformando ideas en soluciones digitales
 
 ---
 
@@ -62,12 +62,12 @@ En este perfil encontrarás diferentes proyectos relacionados con el desarrollo 
 
 Mi objetivo es seguir creciendo profesionalmente como desarrollador y participar en proyectos que me permitan:
 
-* Crear aplicaciones web útiles y de calidad.
-* Mejorar continuamente mis conocimientos técnicos.
-* Aprender nuevas tecnologías.
-* Aplicar buenas prácticas de desarrollo.
-* Trabajar en equipo y colaborar con otros desarrolladores.
-* Crear soluciones eficientes, escalables y mantenibles.
+- Crear aplicaciones web útiles y de calidad.
+- Mejorar continuamente mis conocimientos técnicos.
+- Aprender nuevas tecnologías.
+- Aplicar buenas prácticas de desarrollo.
+- Trabajar en equipo y colaborar con otros desarrolladores.
+- Crear soluciones eficientes, escalables y mantenibles.
 
 ---
 
@@ -75,9 +75,9 @@ Mi objetivo es seguir creciendo profesionalmente como desarrollador y participar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -85,11 +85,23 @@ Mi objetivo es seguir creciendo profesionalmente como desarrollador y participar
 
 ## 📫 Contacto
 
-Si quieres contactar conmigo, colaborar en algún proyecto o simplemente hablar sobre desarrollo web, puedes encontrarme en:
+Si quieres contactar conmigo, colaborar en algún proyecto o simplemente hablar sobre desarrollo web, puedes encontrarme aquí:
 
-* 💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/)
-* 📧 **Email:** `tu-email@example.com`
-* 🐙 **GitHub:** [@TU_USUARIO](https://github.com/)
+### 📱 WhatsApp
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34605024359)
+
+**+34 605 024 359**
+
+### 📧 Email
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurelioalcobabarragan@gmail.com)
+
+**aurelioalcobabarragan@gmail.com**
+
+### 🐙 GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
@@ -105,8 +117,7 @@ Me encuentro constantemente aprendiendo nuevas tecnologías, explorando diferent
 
 ### ⭐ Gracias por visitar mi perfil
 
-**Aurelio José Alcoba Barragán**
+**Aurelio José Alcoba Barragán**  
 *Desarrollador de Aplicaciones Web*
 
 </div>
-
